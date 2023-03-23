@@ -1,35 +1,64 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-        .badge {
-          width: 33.33%;
-          height: 100%;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-      </style>
-
-      <div class="container">
-        <div class="badge">
-          <object type="image/svg+xml" data="html.svg"></object>
-        </div>
-        <div class="badge">
-          <object type="image/svg+xml" data="css.svg"></object>
-        </div>
-        <div class="badge">
-          <object type="image/svg+xml" data="javascript.svg"></object>
-        </div>
-      </div>
-
+ <div xmlns="http://www.w3.org/1999/xhtml">
+  <style>
+    .container {
+      display: flex;
+      justify-content: space-evenly;
+      width: 100%;
+      height: 150px;
+      background-color: transparent;
+      color: white;
+    }
+    .badge img {
+      width: 75%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      animation: rise 5s ease-in-out alternate infinite;
+    }
+    @keyframes rise {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-25px);
+      }
+      100% {
+        transform: translateY(25px);
+      }
+    }
+  </style>
+  <div class="container">
+    <div class="badge">
+      <img src="./html.svg" alt="" style="animation-delay: 0s;">
     </div>
+    <div class="badge">
+      <img src="./css.svg" alt="" style="animation-delay: 0.2s;">
+    </div>
+    <div class="badge">
+      <img src="./javascript.svg" alt="" style="animation-delay: 0.4s;">
+    </div>
+    <div class="badge">
+      <img src="./figma.svg" alt="" style="animation-delay: 0.4s;">
+    </div>
+    <div class="badge">
+      <img src="./ruby.svg" alt="" style="animation-delay: 0.6s;">
+    </div>
+    <div class="badge">
+      <img src="./rails.svg" alt="" style="animation-delay: 0.8s;">
+    </div>
+    <div class="badge">
+      <img src="./postgresql.svg" alt="" style="animation-delay: 1s;">
+    </div>
+    <div class="badge">
+      <img src="./git.svg" alt="" style="animation-delay: 1.2s;">
+    </div>
+    <div class="badge">
+      <img src="./github.svg" alt="" style="animation-delay: 1.4s;">
+    </div>
+  </div>
+</div>
   </foreignObject>
 </svg>
