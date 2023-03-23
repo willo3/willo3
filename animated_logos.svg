@@ -3,13 +3,23 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @import url("path/to/font-awesome/css/font-awesome.min.css");
-        .container {
-          display: flex;
+        .body {
+          display: grid;
+          place-items: center;
           width: 100%;
           height: 300px;
+        }
+        .container {
+          display: flex;
+          gap: 1rem;
+          position: relative;
           background-color: black;
           color: white;
         }
+        .badge {
+          size: 25px;
+        }
+
       </style>
 
       <div class="container">
