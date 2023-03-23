@@ -9,6 +9,8 @@
           height: 75px;
           background-color: transparent;
           color: white;
+          margin: none;
+          padding: none;
         }
         .badge img {
           width: 75%;
