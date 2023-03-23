@@ -1,6 +1,6 @@
 <div style="width: 100%;">
-  <a href="https://github.com/willo3/willo3/blame/main/welcome.svg">
-    <img src="animated_logos.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/willo3/willo3/animated_logos.svg">
+    <img src="animated_logos.svg" style="width: 100%;" alt="">
   </a>
 </div>
 
