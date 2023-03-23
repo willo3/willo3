@@ -13,9 +13,9 @@
       </style>
 
       <div class="container">
-        <div class="badge"><i class="fa-brands fa-css3-alt" style="color: #2862c8;"></i></div>
-        <div class="badge"><i class="fa-brands fa-html5" style="color: #ff8f33;"></i></div>
-        <div class="badge"><i class="fa-brands fa-square-js" style="color: #f1ea13;"></i></div>
+        <div class="badge"><i class="fa fa-css3" style="color: #2862c8;"></i></div>
+        <div class="badge"><i class="fa fa-html5" style="color: #ff8f33;"></i></div>
+        <div class="badge"><i class="fa fa-square" style="color: #f1ea13;"></i></div>
       </div>
 
     </div>
