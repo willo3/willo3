@@ -1,4 +1,9 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <a href="https://github.com/willo3/willo3/blame/main/welcome.svg">
+    <img src="animated_logos.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/william-robert-parker/">
