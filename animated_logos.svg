@@ -32,31 +32,31 @@
       </style>
       <div class="container">
         <div class="badge">
-          <img src="./html.svg" alt="" style="animation-delay: 0s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608427/html_zxlyh3.svg" alt="" style="animation-delay: 0s;">
         </div>
         <div class="badge">
-          <img src="./css.svg" alt="" style="animation-delay: 0.2s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608427/css_wyi4eu.svg" alt="" style="animation-delay: 0.2s;">
         </div>
         <div class="badge">
-          <img src="./javascript.svg" alt="" style="animation-delay: 0.4s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608427/javascript_labdie.svg" alt="" style="animation-delay: 0.4s;">
         </div>
         <div class="badge">
-          <img src="./figma.svg" alt="" style="animation-delay: 0.4s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608429/figma_nxosst.svg" alt="" style="animation-delay: 0.4s;">
         </div>
         <div class="badge">
-          <img src="./ruby.svg" alt="" style="animation-delay: 0.6s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608428/ruby_u0lbft.svg" alt="" style="animation-delay: 0.6s;">
         </div>
         <div class="badge">
-          <img src="./rails.svg" alt="" style="animation-delay: 0.8s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608427/rails_wtmkqv.svg" alt="" style="animation-delay: 0.8s;">
         </div>
         <div class="badge">
-          <img src="./postgresql.svg" alt="" style="animation-delay: 1s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608429/postgresql_zvddzw.svg" alt="" style="animation-delay: 1s;">
         </div>
         <div class="badge">
-          <img src="./git.svg" alt="" style="animation-delay: 1.2s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608429/git_vwz7qq.svg" alt="" style="animation-delay: 1.2s;">
         </div>
         <div class="badge">
-          <img src="./github.svg" alt="" style="animation-delay: 1.4s;">
+          <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1679608428/github_rittqk.svg" alt="" style="animation-delay: 1.4s;">
         </div>
       </div>
     </div>
