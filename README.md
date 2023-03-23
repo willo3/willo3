@@ -11,12 +11,14 @@ I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/f
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Some Tools I've Used:
 <div style="width: 100%;">
   <a href="https://github.com/willo3/willo3/blame/main/animated_logos.svg">
     <img src="animated_logos.svg" style="width: 100%;" alt="">
   </a>
 </div>
+
+![Snake animation](https://github.com/willo3/willo3/blob/output/github-contribution-grid-snake.svg)
 
 ### :fire: My Stats :
 <div style="display:flex; flex-direction:row;">
