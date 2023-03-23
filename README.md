@@ -1,12 +1,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
 
-I am a recent graduate of <img src="https://w7.pngwing.com/pngs/740/287/png-transparent-le-wagon-berlin-coding-bootcamp-le-wagon-tlv-switchup-wagon-text-trademark-logo.png"> on my way to becoming a Full Stack Developer
+I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me:     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-robert-parker/)
 
