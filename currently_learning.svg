@@ -1,0 +1,42 @@
+<svg fill="auto"  width="100%" height="75" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: space-evenly;
+          width: 100%;
+          height: 75px;
+          background-color: transparent;
+          color: white;
+          margin: none;
+          padding: none;
+        }
+        .badge img {
+          width: 75%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          animation: rise 5s ease-in-out alternate infinite;
+        }
+        @keyframes rise {
+          0% {
+            transform: translateY(0);
+          }
+          50% {
+            transform: translateY(-5px);
+          }
+          100% {
+            transform: translateY(5px);
+          }
+        }
+      </style>
+      <div class="container">
+        <div class="badge">
+          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="React logo" style="animation-delay: 0s;"></img>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -28,12 +28,21 @@ The rest of the Quandary team:
   </a>
 </div>
 
-### :hammer_and_wrench: Some Tools I've Used:
 <h1></h1>
+### :hammer_and_wrench: Some Tools I've Used:
 <h1>
 <div style="width: 100%;">
   <a href="https://github.com/willo3/willo3/blame/main/animated_logos.svg">
     <img src="animated_logos.svg" style="width: 100%;" alt="">
+  </a>
+</div>
+</h1>
+
+🌱 I'm Currently Learning:
+<h1>
+<div style="width: 100%;">
+  <a href="https://github.com/willo3/willo3/blame/main/currently_learning.svg">
+    <img src="currently_learning.svg" style="width: 100%;" alt="">
   </a>
 </div>
 </h1>
