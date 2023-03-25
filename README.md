@@ -2,8 +2,8 @@
 
 <h1>
 <div style="width: 100%;">
-  <a href="https://github.com/willo3/willo3/blame/main/animated_logos.svg">
-    <img src="animated_logos.svg" style="width: 100%;" alt="">
+  <a href="https://github.com/willo3/willo3/blame/main/Hi_I'm_Will.svg">
+    <img src="Hi_I'm_Will.svg" style="width: 100%;" alt="">
   </a>
 </div>
 </h1>
