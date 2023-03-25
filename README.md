@@ -24,11 +24,11 @@
 - [Cristian Führich](https://github.com/fuehrichuk)
 
 <div id="badges" style="display: flex; align-items: center;">
-  <h2 style="margin-right: 10px;"> :mailbox: Connect with me:</h2>
+  <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
   <a href="https://www.linkedin.com/in/william-robert-parker/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:wrparker@gmail.com" style="margin-left: 5px;">
+  <a href="mailto:wrparker@gmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -64,10 +64,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=radical" />
 </a>
-<a href=https://git.io/streak-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact" />
+</a>
+<a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=willo3&theme=radical" />
 </a>
-                                                                                                     
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
