@@ -2,10 +2,11 @@
 
 <h1>
 <div style="width: 100%;">
-  <a href="https://github.com/willo3/willo3/blame/main/hi.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./hi_darkmode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./hi_lightmode.svg" />
-  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679768056/hi_darkmode_sagy7h.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679768056/hi_lightmode_zyyov7.svg" />
+  <img alt="Hi, I'm Will" />
+</picture>
 </div>
 </h1>
 
