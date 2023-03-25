@@ -1,7 +1,7 @@
 ###  About Me :
 
 <h1>
-  <div style="width: 100%;">
+  <div style="width: 100%; text-align: center; height: auto;">
     <picture>
       <source srcset="./hi_dark.svg" media="(prefers-color-scheme: dark)">
       <img src="./hi_light.svg" alt="Hi, I'm Will">
