@@ -2,16 +2,10 @@
 
 <h1>
   <div style="width: 100%;">
-    <img src="./hi_light.svg"
-         srcset="./hi_light.svg 1x,
-                ./hi_dark.svg 1x"
-         alt="Hi, I'm Will"
-         media="(prefers-color-scheme: dark)" />
-    <img src="./hi_light.svg"
-         srcset="./hi_light.svg 1x,
-                ./hi_dark.svg 1x"
-         alt="Hi, I'm Will"
-         media="(prefers-color-scheme: light)" />
+    <picture>
+      <source srcset="./hi_dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./hi_light.svg" alt="Hi, I'm Will">
+    </picture>
   </div>
 </h1>
 
