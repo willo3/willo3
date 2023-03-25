@@ -2,8 +2,9 @@
 
 <h1>
 <div style="width: 100%;">
-  <a href="https://github.com/willo3/willo3/blame/main/Hi_I'm_Will.svg">
-    <img src="Hi_I'm_Will.svg" style="width: 100%;" alt="">
+  <a href="https://github.com/willo3/willo3/blame/main/hi.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="hi_darkmode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="hi_lightmode.svg" />
   </a>
 </div>
 </h1>
