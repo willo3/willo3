@@ -21,7 +21,6 @@
 - [Jerome MR](https://github.com/Assasquid)
 - [Cristian Führich](https://github.com/fuehrichuk)
 
-
 <div id="badges">
 <h2> :mailbox: Connect with me:</h2>
   <a href="https://www.linkedin.com/in/william-robert-parker/">
