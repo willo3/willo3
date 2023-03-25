@@ -1,13 +1,18 @@
 ###  About Me :
 
 <h1>
-<div style="width: 100%;">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" src="./hi_dark.svg" />
-  <source media="(prefers-color-scheme: light)" src="./hi_light.svg" />
-  <img alt="Hi, I'm Will" />
-</picture>
-</div>
+  <div style="width: 100%;">
+    <img src="./hi_light.svg"
+         srcset="./hi_light.svg 1x,
+                ./hi_dark.svg 1x"
+         alt="Hi, I'm Will"
+         media="(prefers-color-scheme: dark)" />
+    <img src="./hi_light.svg"
+         srcset="./hi_light.svg 1x,
+                ./hi_dark.svg 1x"
+         alt="Hi, I'm Will"
+         media="(prefers-color-scheme: light)" />
+  </div>
 </h1>
 
 <h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
