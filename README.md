@@ -10,7 +10,7 @@
 </div>
 </h1>
 
-I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!
+<h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [Quandary](https://www.quandary.lol) - A Game of Absurd Dilemmas
 
@@ -20,7 +20,7 @@ The rest of the Quandary team:
 - [Cristian Führich](https://github.com/fuehrichuk)
 
 
- :mailbox:How to reach me:
+<h2> :mailbox: Connect with me: </h2>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/william-robert-parker/">
@@ -29,6 +29,7 @@ The rest of the Quandary team:
 </div>
 
 <h1></h1>
+
 ### :hammer_and_wrench: Some Tools I've Used:
 <h1>
 <div style="width: 100%;">
