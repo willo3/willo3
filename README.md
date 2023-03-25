@@ -12,21 +12,22 @@
 
 <h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [Quandary](https://www.quandary.lol) - A Game of Absurd Dilemmas
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on  <a href="www.quandary.lol">
+    <img src="https://res.cloudinary.com/drfmymoki/image/upload/v1678838191/Quandary%20Branding/Quandary_Full_Title_Logo_Shadow_Dark_Halo_Glow_fhqgi3.svg" alt="Quandary"/> - A Game of Absurd Dilemmas
 
-The rest of the Quandary team:
+<h3>The rest of the Quandary team:</h3>
 - [Nina Lodeiro](https://github.com/jnlnina)
 - [Jerome MR](https://github.com/Assasquid)
 - [Cristian Führich](https://github.com/fuehrichuk)
 
 
-<h2> :mailbox: Connect with me: </h2>
-
 <div id="badges">
+<h2> :mailbox: Connect with me:</h2>
   <a href="https://www.linkedin.com/in/william-robert-parker/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 <h1></h1>
 
