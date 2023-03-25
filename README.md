@@ -21,6 +21,7 @@ The rest of the Quandary team:
 </div>
 
 ### :hammer_and_wrench: Some Tools I've Used:
+<h1></h1>
 <h1>
 <div style="width: 100%;">
   <a href="https://github.com/willo3/willo3/blame/main/animated_logos.svg">
