@@ -57,10 +57,6 @@ The rest of the Quandary team:
   </div>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willo3&label=Profile%20views&color=0e75b6&style=flat" alt="willo3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willo3" alt="willo3" /></a> </p>
-
 
 <!--
 **willo3/willo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
