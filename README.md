@@ -30,9 +30,6 @@
   </a>
 </div>
 
-
-<h1></h1>
-
 ### :hammer_and_wrench: Some Tools I've Used:
 <h1>
 <div style="width: 100%;">
