@@ -23,12 +23,16 @@
 - [Jerome MR](https://github.com/Assasquid)
 - [Cristian Führich](https://github.com/fuehrichuk)
 
-<div id="badges">
-<h2> :mailbox: Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/william-robert-parker/">
+<div id="badges" style="display: flex; align-items: center;">
+  <h2 style="margin-right: 10px;"> :mailbox: Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/william-robert-parker/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:wrparker@gmail.com" style="margin-left: 5px;">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
+
 
 ### :hammer_and_wrench: Some Tools I've Used:
 <h1>
@@ -57,26 +61,14 @@
 </div>
 
 ### :fire: My Stats :
-  <div style="width=100">
-  <div style="flex:1; width:50%;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=radical"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true" />
-    </picture>
-  </div>
-  <div style="flex:1; width:50%;">
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=willo3&theme=dark" alt="GitHub Streak" />
-    </a>
-  </div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=radical" />
+</a>
+<a href=https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=willo3&theme=radical" />
+</a>
+                                                                                                     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
