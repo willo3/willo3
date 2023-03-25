@@ -1,11 +1,12 @@
 ###  About Me :
 
 <h1>
-  <div style="width: 100%; text-align: center; height: auto;">
-    <picture>
-      <source srcset="./hi_dark.svg" media="(prefers-color-scheme: dark)">
-      <img src="./hi_light.svg" alt="Hi, I'm Will">
-    </picture>
+  <div style="width: 100%;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" src="https://res.cloudinary.com/drfmymoki/image/upload/v1679777578/hi_dark_ybaxru.svg" />
+        <source media="(prefers-color-scheme: light)" src="https://res.cloudinary.com/drfmymoki/image/upload/v1679777578/hi_light_lshvdz.svg" />
+        <img alt="Hi, I'm Will" />
+      </picture>
   </div>
 </h1>
 
