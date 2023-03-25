@@ -52,13 +52,6 @@
 </div>
 </h1>
 
-<div style="width: 100%;">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618289/github-user-contribution_fg1pol.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618356/github-user-contribution_1_xfp3ny.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</div>
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,6 +60,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact" style="margin-left: 10px;"/>
 </a>
+
+<div style="width: 100%;">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618289/github-user-contribution_fg1pol.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618356/github-user-contribution_1_xfp3ny.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>
 
 <!--
 **willo3/willo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
