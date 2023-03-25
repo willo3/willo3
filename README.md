@@ -63,8 +63,8 @@
 
 <div style="width: 100%;">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618289/github-user-contribution_fg1pol.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679618356/github-user-contribution_1_xfp3ny.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679782605/Snakedark_jehni1.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679782605/Snakelight_qfoklg.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
