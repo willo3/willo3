@@ -12,9 +12,7 @@
 
 <h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on:
-
-<a href="https://www.quandary.lol">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on: <a href="https://www.quandary.lol">
     <img src="quandary.svg" alt="Quandary" width="150" margin-top="30"/></a>
 
 <h3>The rest of the Quandary team:</h3>
