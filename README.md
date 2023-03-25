@@ -1,6 +1,12 @@
 ###  About Me :
 
-<h1 align="center">Hi 👋, I'm Will</h1>
+<h1>
+<div style="width: 100%;">
+  <a href="https://github.com/willo3/willo3/blame/main/animated_logos.svg">
+    <img src="animated_logos.svg" style="width: 100%;" alt="">
+  </a>
+</div>
+</h1>
 
 I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!
 
@@ -12,7 +18,7 @@ The rest of the Quandary team:
 - [Cristian Führich](https://github.com/fuehrichuk)
 
 
- :mailbox:How to reach me: 
+ :mailbox:How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/william-robert-parker/">
@@ -42,7 +48,7 @@ The rest of the Quandary team:
   <div style="width=100">
   <div style="flex:1; width:50%;">
     <picture>
-      <source 
+      <source
         srcset="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
