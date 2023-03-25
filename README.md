@@ -62,10 +62,10 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willo3&show_icons=true&theme=radical" style="margin-left: 10px;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willo3&theme=radical&layout=compact" style="margin-left: 10px;"/>
 </a>
 
 <!--
