@@ -1,6 +1,8 @@
 ###  About Me :
 
-I am a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer
+<h1 align="center">Hi 👋, I'm Will</h1>
+
+I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [Quandary](https://www.quandary.lol) - A Game of Absurd Dilemmas
 
