@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 <a href="https://www.willparker.io" style="margin-left: 10px;">
-  <img src="https://img.shields.io/badge/My_Website-007ACC?style=for-the-badge&logo=website&logoColor=white" alt="Personal Website Badge"/>
+  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
 </a>
 </div>
 
