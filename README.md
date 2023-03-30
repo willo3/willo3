@@ -10,6 +10,19 @@
   </div>
 </h1>
 
+<div id="badges" style="display: flex; align-items: center;">
+  <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/william-robert-parker/" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:wrparker@gmail.com" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+<a href="https://www.willparker.io" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
+</a>
+</div>
+
 <h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I’m currently working on:</h3>
@@ -23,18 +36,6 @@
 - [Jerome MR](https://github.com/Assasquid)
 - [Cristian Führich](https://github.com/fuehrichuk)
 
-<div id="badges" style="display: flex; align-items: center;">
-  <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/william-robert-parker/" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:wrparker@gmail.com" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-<a href="https://www.willparker.io" style="margin-left: 10px;">
-  <img src="https://img.shields.io/badge/My_Website-e92ac3?style=for-the-badge&logo=website&logoColor=black" alt="Personal Website Badge"/>
-</a>
-</div>
 
 
 ### :hammer_and_wrench: Some Tools I Use:
