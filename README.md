@@ -1,6 +1,6 @@
 ###  About Me :
 
-<h1>
+
   <div style="width: 100%;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/drfmymoki/image/upload/v1679777578/hi_dark_ybaxru.svg" />
@@ -8,7 +8,7 @@
         <img alt="Hi, I'm Will" />
       </picture>
   </div>
-</h1>
+
 
 <div id="badges" style="display: flex; align-items: center;">
   <h2 style="margin-right: 15px;"> :mailbox: Connect with me:</h2>
