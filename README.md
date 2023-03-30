@@ -23,8 +23,6 @@
 </a>
 </div>
 
-<h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
-
 
 ### :hammer_and_wrench: Some Tools I Use:
 <h1>
@@ -35,6 +33,8 @@
 </div>
 </h1>
 
+
+<h3>I'm a recent graduate of  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" width="15">  Le Wagon on my way to becoming a Full Stack Developer!</h3>
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I’m currently working on:</h3>
 
