@@ -41,7 +41,7 @@
 <a href="https://www.quandary.lol">
     <img src="quandary.svg" alt="Quandary" width="150" margin-top="30"/></a>
 
-<h3>The rest of the Quandary team:</h3>
+<h3>Collaborating with:</h3>
 
 - [Nina Lodeiro](https://github.com/jnlnina)
 - [Jerome MR](https://github.com/Assasquid)
