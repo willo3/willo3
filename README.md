@@ -48,7 +48,7 @@
 - [Cristian Führich](https://github.com/fuehrichuk)
 
 
-### 🌱 I'm Currently Learning:
+### 🌱 Currently adding to my stack:
 <h1>
 <div style="width: 100%;">
   <a href="https://github.com/willo3/willo3/blame/main/currently_learning.svg">
