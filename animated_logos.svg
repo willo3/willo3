@@ -17,18 +17,15 @@
           height: 100%;
           display: flex;
           justify-content: center;
-          align-items: center;
+          align-items: baseline;
           animation: rise 5s ease-in-out alternate infinite;
         }
         @keyframes rise {
           0% {
             transform: translateY(0);
           }
-          50% {
-            transform: translateY(-5px);
-          }
           100% {
-            transform: translateY(5px);
+            transform: translateY(10px);
           }
         }
       </style>
