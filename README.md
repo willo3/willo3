@@ -60,10 +60,10 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=willo3&show_icons=true&theme=transparent&hide_border=true" style="margin-left: 10px;"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=willo3&show_icons=true&theme=radical&hide_border=true" style="margin-left: 10px;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willo3&theme=transparent&hide_border=true&layout=compact" style="margin-left: 10px;"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willo3&theme=radical&hide_border=true&layout=compact" style="margin-left: 10px;"/>
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=willo3&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
